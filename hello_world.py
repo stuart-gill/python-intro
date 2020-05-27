@@ -1,2 +1,1 @@
-print("hello world")
-print("goodbye world")
+print("exercise for installing and running python screen shots")
